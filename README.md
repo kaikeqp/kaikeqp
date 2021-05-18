@@ -1,16 +1,18 @@
-### Hi there 👋
+# Salve!
 
-<!--
-**kaikeqp/kaikeqp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kaike, e desde pequeno a tecnologia e minha curiosidade andam de mãos dadas. 
 
-Here are some ideas to get you started:
+Desenvolvimento é arte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Kaike%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaike-santana/)](https://www.linkedin.com/in/kaike-santana/) 
+
+
+## Atualmente estou estudando
+ - Java | Python | C | C++  
+ - HTML | CSS | JS | Bootstrap
+ - SQL Data Modeler | MySQL
+ - Chatbot - IA | Node-Red
+ - Spring
+ - Segurança da Informação
+
