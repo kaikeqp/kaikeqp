@@ -8,7 +8,7 @@ Desenvolvimento é arte.
 [![Linkedin Badge](https://img.shields.io/badge/-Kaike%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaike-santana/)](https://www.linkedin.com/in/kaike-santana/) 
 
 
-## Atualmente estou estudando
+## Atualmente estudo:
  - Java | Python | C | C++  
  - HTML | CSS | JS | Bootstrap
  - SQL Data Modeler | MySQL
