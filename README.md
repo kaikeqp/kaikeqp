@@ -12,7 +12,7 @@ Desenvolvimento é arte.
  - Java | Python | C | C++  
  - HTML | CSS | JS | Bootstrap
  - SQL Data Modeler | MySQL
- - Chatbot - IA | Node-Red
+ - Chatbot - IA | Watson Assitant | Node-Red
  - Spring
  - Segurança da Informação
 
