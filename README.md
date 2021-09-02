@@ -9,10 +9,11 @@ Desenvolvimento é arte.
 
 
 ## Atualmente estudo:
- - Java | Python | C | C++  
- - HTML | CSS | JS | Bootstrap
- - SQL Data Modeler | MySQL
+ - Java | Python | C | C++
+ - HTML | CSS | JS | Bootstrap | React
+ - Oracle DB | MySQL | PostgreSQL
  - Chatbot - IA | Watson Assitant | Node-Red
- - Spring
+ - Spring Framework
+ - Astah
  - Segurança da Informação
 
