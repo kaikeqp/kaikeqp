@@ -6,7 +6,7 @@ Desenvolvimento é arte.
 [![Linkedin Badge](https://img.shields.io/badge/-Kaike%20Santana-1B8811?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaike-santana/)](https://www.linkedin.com/in/kaike-santana/) 
 
 
-## Possui conhecimentos em:
+## Possuo conhecimentos em:
  - Java | Python | C | C++ | C#
  - HTML | CSS | JS | Bootstrap | React
  - Oracle DB | MySQL | PostgreSQL
