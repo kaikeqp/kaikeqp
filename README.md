@@ -7,12 +7,13 @@ Desenvolvimento é arte.
 
 
 ## Possuo conhecimentos em:
- - Java | Python | C | C++ | C#
- - HTML | CSS | JS | Bootstrap | React
- - Oracle DB | MySQL | PostgreSQL
- - Chatbot - IA | Watson Assitant | Node-Red
+ - Angular
  - Spring Framework
  - .NET
+ - Java | Python | C | C++ | C#
+ - HTML | CSS | JS | Typescript | Bootstrap | React
+ - Oracle DB | MySQL | PostgreSQL
+ - Chatbot - IA | Watson Assitant | Node-Red
  - MVC
  - Astah
  - Segurança da Informação
