@@ -8,15 +8,13 @@ Desenvolvimento é arte.
 
 ## Possuo conhecimentos em:
  - Angular
+ - .NET Core
  - Spring Framework
- - .NET
  - Java | Python | C | C++ | C#
- - HTML | CSS | JS | Typescript | Bootstrap | React
- - Oracle DB | MySQL | PostgreSQL
+ - HTML | CSS | JS | Typescript | Bootstrap | React | React-Native | Expo
+ - MongoDB| Oracle DB | MySQL | PostgreSQL | SQL Server
  - Chatbot - IA | Watson Assitant | Node-Red
- - MVC
  - Astah
- - Segurança da Informação
 
 #
 
